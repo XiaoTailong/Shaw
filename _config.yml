@@ -1,6 +1,6 @@
 # Site
 repository: XiaoTailong/Shaw
-favicon: images/me.jpg
+favicon: images/favicon.ico
 
 # Personal info
 name: 肖太龙
@@ -28,7 +28,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   本人来自湖北省孝感市，现就读于上海交通大学电子信息与电气工程学院电子系信息与通信工程专业。
   本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是看文献、做笔记、看小说、打游戏(刺激战场和王者荣耀)。
