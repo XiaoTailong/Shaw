@@ -32,8 +32,8 @@ about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   - 本人来自湖北省孝感市，现就读于上海交通大学电子信息与电气工程学院电子系信息与通信工程专业。
   目前处于物理与计算机科学的交叉领域，致力于将量子力学原理应用于计算机科学，主要是机器学习领域。
-  - 编程语言: python, C/C++, Matlab, Latex, Markdown, Mathmatica, SQL, etc.
-  - 机器学习框架：pytorch, tesorflow-quantum, qutip, Cirq, etc. 
+  - 编程语言: python, C/C++, Matlab, Latex, Markdown, Mathmatica, SQL, etc。
+  - 机器学习框架：pytorch, tesorflow-quantum, qutip, Cirq, etc。
   - 工作技能：能快速了解新领域的知识，具有良好的<mark>数学基础</mark>，具有一定的<mark>创新能力</mark>，擅长<mark>团队合作</mark>。
 
 # Research Interests Section
