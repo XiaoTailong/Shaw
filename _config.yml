@@ -53,20 +53,9 @@ more_content: | # this will include new lines to allow paragraphs
   比较喜欢的书籍有《活着》，《平凡的世界》，《红与黑》，《大清相国》，《资本论》等。
   - 本人不擅旅游，对于很多户外活动不心动，但是非常注重<mark>健身</mark>和<mark>跑步</mark>。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
   - 本人不爱美食。
-
-publication: |
-  1. **Xiao, Tailong**, et al. "Quantum Boltzmann machine algorithm with dimension-expanded equivalent Hamiltonian." Physical Review A 101.3 (2020): 032304.
-
-  2. **Xiao, Tailong**, et al. "Continuous-variable Quantum phase estimation based on Machine Learning." Scientific reports 9.1 (2019): 1-13.
-
-  3. Bai, Dongyun, Peng Huang, Yiqun Zhu, Hongxin Ma, **Tailong Xiao**, Tao Wang, and Guihua Zeng. "Unidimensional continuous-variable measurement-device-independent quantum key distribution." Quantum Information Processing 19, no. 2 (2020): 53.
-
-  4. Qi, Huamei, Fengqi Liu, **Tailong Xiao**, and Jiang Su. "A Robust and Energy-Efficient Weighted Clustering Algorithm on Mobile Ad Hoc Sensor Networks." Algorithms 11, no. 8 (2018): 116. (**Corresponding author**)
-
-  5. Qi, Huamei, **Tailong Xiao**, and Ying Guo. "Graph-Based Quantum Parallel Teleportation in Quantum Wireless Multi-Hop Networks." 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC). IEEE, 2017.
-
-  6. Qi, Huamei, **Tailong Xiao**, et al. "Toward Energy-Efficient and Robust Clustering Algorithm on Mobile Ad Hoc Sensor Networks." International Conference on Combinatorial Optimization and Applications. Springer, Cham, 2017.
-
+  
+# Publication Section
+# publication_title: Publication
 
 # Footer
 footer_show_references: true
