@@ -31,8 +31,7 @@ additional_links:
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   本人来自湖北省孝感市，现就读于上海交通大学电子信息与电气工程学院电子系信息与通信工程专业。
-  本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是看文献、做笔记、看小说、打游戏(刺激战场和王者荣耀)。
-  本人不擅旅游，对于很多户外活动不心动，但是非常注重健身和跑步。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
+  目前处于物理与计算机科学的交叉领域，致力于将量子力学原理应用于计算机科学，主要是机器学习领域。
 
 # Projects Section
 # projects_title: Projects
@@ -46,11 +45,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是<mark>看文献<mark>、<mark>做笔记<mark>、<mark>看小说<mark>、<mark>打游戏(刺激战场和王者荣耀)<mark>。
+  本人不擅旅游，对于很多户外活动不心动，但是非常注重<mark>健身<mark>和<mark>跑步<mark>。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
 
 # Footer
 footer_show_references: true
