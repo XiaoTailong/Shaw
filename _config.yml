@@ -55,7 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
   - 本人不爱美食。
   
 # Publication Section
-# publication_title: Publication
+# publication_title: Publication List
 
 # Footer
 footer_show_references: true
