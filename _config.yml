@@ -54,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
   - 本人不擅旅游，对于很多户外活动不心动，但是非常注重<mark>健身</mark>和<mark>跑步</mark>。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
   - 本人不爱美食。
 
-publication_list: |
+publication: |
   1. **Xiao, Tailong**, et al. "Quantum Boltzmann machine algorithm with dimension-expanded equivalent Hamiltonian." Physical Review A 101.3 (2020): 032304.
 
   2. **Xiao, Tailong**, et al. "Continuous-variable Quantum phase estimation based on Machine Learning." Scientific reports 9.1 (2019): 1-13.
