@@ -1,0 +1,66 @@
+# Site
+repository: XiaoTailong/Shaw
+favicon: images/favicon.ico
+
+# Personal info
+name: 肖太龙
+title: 上海交通大学博士生在读
+email: tailong_shaw@sjtu.edu.cn
+phone: +86 18601736021
+# website: https://xiaotailong.github.io/Shaw/
+QQ: 2449734455
+# Social links
+github_username:  XiaoTailong
+
+linkedin_username: Tailong Xiao
+
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+additional_links:
+- title: zhihu
+  icon: fa-zhihu (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://www.zhihu.com/people/xiao-tai-long-16
+- title: google
+  icon: fa-google
+  url: https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en
+
+
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  本人来自湖北省孝感市，现就读于上海交通大学电子信息与电气工程学院电子系信息与通信工程专业。
+  本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是看文献、做笔记、看小说、打游戏(刺激战场和王者荣耀)。
+  本人不擅旅游，对于很多户外活动不心动，但是非常注重健身和跑步。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: XiaoTailong/Shaw
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
