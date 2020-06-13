@@ -5,8 +5,9 @@
   qualification: Ph.D (candidate)
   quote: >
     SJTU (QS rank: 47, 2020 new!)
-  discription: |
-    电子信息与电气工程学院电子系信息与通信工程专业被评为A(top 2-5%)学科。主修课程：计算复杂度，量子光学，凸优化等，GPA为3.74/4.
+  description: |  # this will include new lines to allow paragraphs
+    电子信息与电气工程学院电子系信息与通信工程专业被评为A(top 2-5%)学科。
+    主修课程：计算复杂度，量子光学，凸优化等，GPA为3.74/4。
 
 - layout: left
   name: 中南大学
@@ -14,5 +15,5 @@
   qualification: Bachelor
   quote: >
     CSU (985 Engineering)
-  discription: |
+  description: |
     本科专业为通信工程，主修课程有:信号与系统，通信原理，信息论等。
