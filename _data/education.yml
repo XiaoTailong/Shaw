@@ -15,5 +15,5 @@
   qualification: Bachelor
   quote: >
     CSU (985 Engineering)
-  description: |
+  description: | # this will include new lines to allow paragraphs
     本科专业为通信工程，主修课程有:信号与系统，通信原理，信息论等。
