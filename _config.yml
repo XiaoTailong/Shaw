@@ -45,8 +45,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是<mark>看文献<mark>、<mark>做笔记<mark>、<mark>看小说<mark>、<mark>打游戏(刺激战场和王者荣耀)<mark>。
-  本人不擅旅游，对于很多户外活动不心动，但是非常注重<mark>健身<mark>和<mark>跑步<mark>。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
+  - 本人兴趣爱好广泛但都不深入，没有值得称道的特长。如果说大部分的时间都在干的事情，那就是
+  <mark>看文献</mark>、<mark>做笔记</mark>、<mark>看小说</mark>、<mark>打游戏(刺激战场和王者荣耀)</mark>。<br>
+  - 本人不擅旅游，对于很多户外活动不心动，但是非常注重<mark>健身</mark>和<mark>跑步</mark>。对于乒乓球和篮球等球类运动不抵触，都会积极参与。
+  - 本人不爱美食。
 
 # Footer
 footer_show_references: true
