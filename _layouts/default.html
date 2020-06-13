@@ -28,13 +28,15 @@
         {%- include education.html -%}
       {%- endif -%}
 
+      {%- if site.data.pulication.size > 0 -%}
+        {%- include publication.html -%}
+      {%- endif -%}
+
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
 
-      {%- if site.data.pulication.size > 0 -%}
-        {%- include publication.html -%}
-      {%- endif -%}
+
 
     </div>
   </main>
