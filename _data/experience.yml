@@ -1,10 +1,15 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: 中南大学国家级大学生自由探索项目
+  job_title: 项目负责人
+  dates: 2016.9-2017.12
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    作为项目负责人，研究无线传感器网络并提出数据链路层的聚类算法，通过合理的规划数据路由，从而达到延长网络的生命周期的目的。
+    在此项目中，我们发表了两篇会议论文和一篇期刊论文。
+
+- layout: left
+  company: 中南大学国家级大学生创新研究项目
+  job_title: 项目参与人
+  dates: 2016.9-2017.6
+  description: | 
+    作为项目参与者，主要设计了交通监控网络面板，并协同设计智慧交通调度算法。另外，制作PPT并撰写项目论文。
